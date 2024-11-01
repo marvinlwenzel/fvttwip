@@ -1,4 +1,4 @@
-package main
+package fvttcrypt
 
 import (
 	"crypto/rand"
